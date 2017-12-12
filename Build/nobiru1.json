@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "nobiru1.data.unityweb",
+"asmCodeUrl": "nobiru1.asm.code.unityweb",
+"asmMemoryUrl": "nobiru1.asm.memory.unityweb",
+"asmFrameworkUrl": "nobiru1.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
